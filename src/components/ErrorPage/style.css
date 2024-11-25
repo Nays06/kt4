@@ -1,0 +1,31 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6c6c6c;
+}
+
+.error{
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.error-title{
+    font-weight: 700;
+    font-size: 400px;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.error-txt{
+    font-weight: 600;
+    font-size: 23px;
+}
+
+.error-btn{
+    display: flex;
+    justify-content: center;
+}
